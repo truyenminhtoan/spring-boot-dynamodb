@@ -1,0 +1,13 @@
+amazon:
+  aws:
+    accesskey: 'AKIA5CGLDO7SBZUNKN7Q'
+    region: 'ap-southeast-2'
+    secretkey: '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'
+  dynamodb:
+    endpoint: 'https://dynamodb.ap-southeast-2.amazonaws.com'
+server:
+  port: 9500
+spring:
+  application:
+    name: springboot-aws-dynamodb
+# endpoint: 'http://localhost:8000/'   
